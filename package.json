@@ -2,7 +2,6 @@
   "name": "cornerstone-core",
   "version": "2.2.8",
   "description": "HTML5 Medical Image Viewer Component",
-  "main": "./dist/cornerstone.js",
   "keywords": [
     "DICOM",
     "medical",
@@ -11,7 +10,6 @@
   "author": "Chris Hafey",
   "homepage": "https://github.com/cornerstonejs/cornerstone",
   "license": "MIT",
-  "module": "./dist/cornerstone.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cornerstonejs/cornerstone.git"
